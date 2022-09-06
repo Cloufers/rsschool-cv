@@ -3,7 +3,8 @@ Front-end developer
 
 [![Photo](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://github.com/Cloufers/rsschool-cv/blob/gh-pages/maxresdefault.jpg?raw=true)
 
-> Knowledge is my passion. I will reach every single angle of the information world until I am satisfied.
+> Knowledge is my passion. I will reach every single angle of the information world until I am satisfied. 
+
 ## Contacts
 * Moscow
 * testemail@gmail.com
